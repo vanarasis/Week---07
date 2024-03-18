@@ -1,5 +1,5 @@
-#include <iostream>
-#include <string>
+#include <iostream>   // input stream 
+#include <string>    // string out put 
 
 
 class Person {
